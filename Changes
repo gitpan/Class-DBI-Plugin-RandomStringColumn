@@ -1,0 +1,19 @@
+Revision history for Perl extension Class::DBI::Plugin::RandomStringColumn
+
+0.05  Sun Nov 13 16:01:35 JST 2005
+        - no rewrite random string if set
+
+0.04  Wed Nov  9 11:14:50 2005
+        - public released
+
+0.03  Sat Oct 29 21:15:37 2005
+        - released
+        - Interface Changed
+
+0.02  Sat Oct 29 20:44:57 2005
+        - Internal version
+        - remove retrive_rid method
+
+0.01  Sat Oct 29 19:28:57 2005
+        - Internal version
+        - original version
